@@ -1,6 +1,6 @@
 {
     "name": "Cadastro",
-    "start_url": "/cadastro",
+    "start_url": "/",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
