@@ -1,0 +1,13 @@
+{
+    "name": "Cadastro",
+    "start_url": "/cadastro/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/cadastro.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
