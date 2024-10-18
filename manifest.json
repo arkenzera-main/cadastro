@@ -1,13 +1,18 @@
 {
     "name": "Cadastro",
     "start_url": "/cadastro/",
+    "scope": "/",
+    "orientation": "portrait-primary",
+    "description": "Aplicativo para realizar o cadastro de pessoas com várias informações",
+    "dir": "ltr",
+    "lang": "pt-BR",
     "display": "standalone",
-    "orientation": "portrait",
+
     "icons": [
         {
-            "src": "img/cadastro.png",
+            "src": "img/favicon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
-    ]
+            ]
 }
